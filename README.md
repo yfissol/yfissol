@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a telecommunication engineer
 - 👀 I’m interested in everything tech and education
-- 🌱 I’m currently working in cybersecurity, networking and many software projects  
+- 🌱 I’m currently working in cybersecurity, networking and more software development projects  
 - 📫 I am a cybersecurity instructor too! 
 
 <!---
